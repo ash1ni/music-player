@@ -1,6 +1,9 @@
 ## Music Player App
 
-This project is built with JavaScript, Tailwind CSS, React, Redux and Rapid API (Shazam core API is used). This app contains a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more
+This project is built with JavaScript, Tailwind CSS, React, Redux and Rapid API (Shazam core API is used). This app contains a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more. <br>
+
+## Hosted project
+Here:- https://project-music-player.netlify.app/
 
 
 # Getting Started with Create React App
